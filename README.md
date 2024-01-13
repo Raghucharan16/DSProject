@@ -32,6 +32,6 @@ To explore the project in this repository, follow these steps:
 ## Contribution
 
 If you would like to contribute to this repository, feel free to submit a pull request. Contributions, bug reports, and feature requests are welcome!
-This is an implemented project by krish naik on his youtube channel and is available on on his github. 
+This is an implemented project by @krish naik on his youtube channel and is available on on his github. 
 
 Happy coding!
